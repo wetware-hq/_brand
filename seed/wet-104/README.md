@@ -35,6 +35,7 @@ Both are 1080×1920, 24 fps, H.264 with AAC, mixed to −14 LUFS. The `-clean` f
 | [`character.md`](character.md) | PROOF: the role-model mix, the locks, how he was made |
 | [`environment.md`](environment.md) | The Feed Hall: sources and locked landmarks |
 | [`reels.md`](reels.md) | Shot lists as delivered, iterations, sound, known drifts |
+| [`launch.md`](launch.md) | Launch lines for the event announcement (WET-104 comment dc0fdbad) |
 | [`manifest.json`](manifest.json) | Every source, Higgsfield job, decision, and credit |
 | [`prompts/`](prompts) | The exact prompts sent |
 | [`assets/`](assets) | Curated tiles, location plates, casting photo, character sheet |

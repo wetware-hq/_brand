@@ -81,6 +81,17 @@
     {"job": "473ba58a-fee8-4f37-8662-909382d0e5d2", "model": "seedance_2_5", "asset": "reel 1 final, 1080p from draft 114b29be", "status": "locked", "credits": 128},
     {"job": "b88540da-07dd-4076-b607-f05b2f869b60", "model": "seedance_2_5", "asset": "reel 2 final, 1080p from draft b2fd4f1c", "status": "locked", "credits": 128}
   ],
+  "launch": {
+    "spec": "https://linear.app/mchu001/issue/WET-104/create-seed-reels-wetware#comment-dc0fdbad",
+    "series": "https://x.com/wetwarehq",
+    "event": "https://luma.com/xlsq19cj",
+    "bio": "the biotechnology club 🇦🇺",
+    "lines": [
+      {"reel": "wet-104-reel-1-character", "line": "the biotechnology club has a night doctor 🦋", "chars": 43, "discord_message": "1572148490409213995"},
+      {"reel": "wet-104-reel-2-environment", "line": "the biotechnology club grows mouths to feed 🦋", "chars": 45, "discord_message": "1572148499129040947"}
+    ],
+    "discord_cover_message": "1572148486814572604"
+  },
   "credits": {"start": 1200, "spent": 436.68, "remaining": 763.32},
   "assembly": {
     "score": {
