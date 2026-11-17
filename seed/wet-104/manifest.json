@@ -90,7 +90,12 @@
       {"reel": "wet-104-reel-1-character", "line": "the biotechnology club has a night doctor 🦋", "chars": 43, "discord_message": "1572148490409213995"},
       {"reel": "wet-104-reel-2-environment", "line": "the biotechnology club grows mouths to feed 🦋", "chars": 45, "discord_message": "1572148499129040947"}
     ],
-    "discord_cover_message": "1572148486814572604"
+    "discord_cover_message": "1572148486814572604",
+    "incept": [
+      {"for_reel": "wet-104-reel-1-character", "caption": "the night doctor apologises to his own hand 🦋", "chars": 45, "still": "assets/teasers/incept-1-hand.jpg", "still_source_s": 1.2, "discord_message": "1572149899167015022"},
+      {"for_reel": "wet-104-reel-2-environment", "caption": "the old slaughter floor is growing heartbeats 🦋", "chars": 47, "still": "assets/teasers/incept-2-hall.jpg", "still_source_s": 2.8, "discord_message": "1572149901335470087"}
+    ],
+    "incept_discord_cover_message": "1572149897149415517"
   },
   "credits": {"start": 1200, "spent": 436.68, "remaining": 763.32},
   "assembly": {
