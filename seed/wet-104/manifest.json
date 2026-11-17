@@ -100,7 +100,7 @@
         "score_delay_s": 0.95,
         "score_lufs": -29,
         "blur_boxes": [
-          {"x": 440, "y": 690, "w": 240, "h": 260, "first_frame": 88, "last_frame": 111, "reason": "pseudo-text on the IV bag label in shot 3"}
+          {"x": 390, "y": 685, "w": 300, "h": 305, "first_frame": 88, "last_frame": 111, "reason": "pseudo-text on the IV bag label in shot 3"}
         ]
       }
     ]
