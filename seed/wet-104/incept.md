@@ -39,3 +39,5 @@ Posted caption + still pairs to the Discord delivery thread
 
 Nothing was posted to X: the posts are composed and staged; publishing
 from @wetwarehq is a human step.
+
+Refined as image macros in [`memes.md`](memes.md).
