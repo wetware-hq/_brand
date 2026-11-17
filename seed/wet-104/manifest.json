@@ -1,0 +1,108 @@
+{
+  "task": "WET-104 create-seed-reel-wetware",
+  "linear": {
+    "task": "https://linear.app/mchu001/issue/WET-104/create-seed-reel-wetware",
+    "taste": "https://linear.app/mchu001/issue/WET-97/project-theme-into-multiverse#comment-413d1d48",
+    "skill": "https://linear.app/mchu001/issue/WET-102/communicate-with-discord-bots"
+  },
+  "director": {
+    "profile": "https://higgsfield.ai/@joeysnoisygroup",
+    "film": "https://higgsfield.ai/@joeysnoisygroup/projects/everything-nice-happens-when-i-sleep",
+    "snapshot_folder_id": "9cfaf851-dc5a-4572-953d-a52be70e306e",
+    "folders": {
+      "Characters + Props": "9e205b81-6264-43e0-8294-e191c83ddfbe",
+      "Video Gens": "32b247a1-a820-4a0e-8a92-e220da4eb9cc",
+      "Location Locks": "ab491349-2806-4b06-9dc8-2ed0fb32368c"
+    }
+  },
+  "discord": {
+    "guild": "1551792583104004116",
+    "media_channel": "1571363587849715762",
+    "seed_thread": "1571363743940747449"
+  },
+  "curated": [
+    {
+      "file": "assets/curated/mj-03-researcher-tissue-dish.jpg",
+      "midjourney_job": "479f5b9b-47f5-41b8-bc35-3b3994bcb1f8",
+      "tile": 2,
+      "discord_message": "1571390817296195707",
+      "higgsfield_media": "66b4d2e1-5501-4c05-863a-826127971ac8",
+      "role": "character mood"
+    },
+    {
+      "file": "assets/curated/mj-04-grown-tissue-figure.jpg",
+      "midjourney_job": "8271183d-2ded-4aed-98c4-0633e9a835f4",
+      "tile": 0,
+      "discord_message": "1571390875685093478",
+      "higgsfield_media": "3cea316a-c5b3-49de-94ec-5817014cb52b",
+      "role": "character motif"
+    },
+    {
+      "file": "assets/curated/mj-01-red-aisle.jpg",
+      "midjourney_job": "72bd86d5-a68e-460e-b552-af5c7755d4f0",
+      "tile": 0,
+      "discord_message": "1571390702020206702",
+      "higgsfield_media": "f8354af7-a602-48e2-b3fa-2bc9b30936a1",
+      "role": "environment palette reference"
+    },
+    {
+      "file": "assets/curated/mj-00-first-spark-neuron.jpg",
+      "midjourney_job": "64b1a138-e6cf-4212-927c-f82b317291e0",
+      "tile": 0,
+      "discord_message": "1571390652942389358",
+      "higgsfield_media": "21caf2fd-ef25-4d61-a92f-0ffc34196d70",
+      "role": "environment palette reference"
+    }
+  ],
+  "generations": [
+    {"job": "a09016ff-93a3-4c4e-befa-ef351f76ca37", "model": "seedream_v5_pro", "asset": "location lock, text only", "status": "alternate", "file": "assets/environment/feed-hall-plate-alt.jpg", "prompt": "prompts/location-lock-feed-hall.txt", "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JAJ9Su3MtJh9dP1AvGgMfWQDw3/hf_20261116_215008_a09016ff-93a3-4c4e-befa-ef351f76ca37.png", "credits": 2.5},
+    {"job": "66c8ec72-455c-49f4-af83-181ea5796527", "model": "seedream_v5_pro", "asset": "location lock, palette from curated mj-01 and mj-00", "status": "locked", "file": "assets/environment/feed-hall-plate.jpg", "prompt": "prompts/location-lock-feed-hall-seeded.txt", "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JAJ9Su3MtJh9dP1AvGgMfWQDw3/hf_20261116_215028_66c8ec72-455c-49f4-af83-181ea5796527.png", "credits": 2.5},
+    {"job": "9cbfd382-65ba-445d-8c01-632b90d3c0c7", "model": "nano_banana_2", "asset": "character sheet, text only", "status": "rejected: CG finish, glove on the wrong hand", "credits": 3},
+    {"job": "c0a5436c-d08f-442c-afa1-941db6e61db1", "model": "nano_banana_2", "asset": "character sheet, text only", "status": "rejected: drifted to illustration", "credits": 3},
+    {"job": "102172af-0b00-4f47-9ffe-7212178e88dc", "model": "nano_banana_pro", "asset": "casting photo", "status": "rejected: lost the cowlicks and the face", "credits": 4},
+    {"job": "b83df771-7285-4a7a-beb5-8bf735a552d6", "model": "nano_banana_pro", "asset": "casting photo", "status": "base for the edit", "prompt": "prompts/casting-proof.txt", "credits": 4},
+    {"job": "2decfbaf-d9f8-497e-8cfe-e456ac716c69", "model": "nano_banana_pro", "asset": "casting photo edit", "status": "alternate", "credits": 4},
+    {"job": "0a2210b9-aa92-4969-9a9d-ca3e25b668e7", "model": "nano_banana_pro", "asset": "casting photo edit", "status": "locked", "file": "assets/character/proof-casting.jpg", "prompt": "prompts/casting-proof-edit.txt", "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JAJ9Su3MtJh9dP1AvGgMfWQDw3/hf_20261116_220004_0a2210b9-aa92-4969-9a9d-ca3e25b668e7.png", "credits": 4},
+    {"job": "3cd60446-01ac-41f4-8b17-939cdc99a040", "model": "nano_banana_pro", "asset": "character sheet from casting", "status": "alternate", "credits": 4},
+    {"job": "184af390-2624-4d6d-9add-209d606dd923", "model": "nano_banana_pro", "asset": "character sheet from casting", "status": "locked", "file": "assets/character/proof-sheet.jpg", "prompt": "prompts/character-sheet-proof.txt", "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JAJ9Su3MtJh9dP1AvGgMfWQDw3/hf_20261116_220458_184af390-2624-4d6d-9add-209d606dd923.png", "credits": 4},
+    {"job": "a2d5a52f-70a3-49ce-a359-b5c968181f06", "model": "seedance_2_5", "asset": "reel 1 draft v1", "status": "rejected: glove on the stethoscope hand, no hop", "credits": 24},
+    {"job": "b2809e5b-07ce-457e-8791-84bcbc7b3e29", "model": "seedance_2_5", "asset": "reel 2 draft v1", "status": "rejected: neon drawn as a cross", "credits": 24},
+    {"job": "041dfe26-b600-4d5c-adfa-3550a97869a5", "model": "seedance_2_5", "asset": "reel 1 draft v2", "status": "rejected: no hop", "credits": 24},
+    {"job": "114b29be-0f0e-4449-b2b1-965707da249b", "model": "seedance_2_5", "asset": "reel 1 draft v2", "status": "approved draft", "prompt": "prompts/reel-1-character.txt", "credits": 24},
+    {"job": "b2fd4f1c-3aab-4ecb-ac3d-01515ba06885", "model": "seedance_2_5", "asset": "reel 2 draft v2", "status": "approved draft", "prompt": "prompts/reel-2-environment.txt", "credits": 24},
+    {"job": "d2c174b1-25e1-4ac3-9d47-90e565da1c99", "model": "seedance_2_5", "asset": "reel 2 draft v2", "status": "rejected: two shots merged", "credits": 24},
+    {"job": "833cdba1-121a-44c1-bdc1-0f14850f30a2", "model": "elevenlabs_music_v2", "asset": "score", "status": "locked", "prompt": "prompts/score.txt", "credits": 1.68},
+    {"job": "473ba58a-fee8-4f37-8662-909382d0e5d2", "model": "seedance_2_5", "asset": "reel 1 final, 1080p from draft 114b29be", "status": "locked", "credits": 128},
+    {"job": "b88540da-07dd-4076-b607-f05b2f869b60", "model": "seedance_2_5", "asset": "reel 2 final, 1080p from draft b2fd4f1c", "status": "locked", "credits": 128}
+  ],
+  "credits": {"start": 1200, "spent": 436.68, "remaining": 763.32},
+  "assembly": {
+    "score": {
+      "job": "833cdba1-121a-44c1-bdc1-0f14850f30a2",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JAJ9Su3MtJh9dP1AvGgMfWQDw3/hf_20261116_222122_833cdba1-121a-44c1-bdc1-0f14850f30a2.mp3"
+    },
+    "loudness": {"integrated_lufs": -14, "true_peak_db": -1.5},
+    "reels": [
+      {
+        "name": "wet-104-reel-1-character",
+        "source_job": "473ba58a-fee8-4f37-8662-909382d0e5d2",
+        "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JAJ9Su3MtJh9dP1AvGgMfWQDw3/hf_20261116_222633_473ba58a-fee8-4f37-8662-909382d0e5d2.mp4",
+        "score_start_s": 0.05,
+        "score_delay_s": 0.0,
+        "score_lufs": -25,
+        "blur_boxes": []
+      },
+      {
+        "name": "wet-104-reel-2-environment",
+        "source_job": "b88540da-07dd-4076-b607-f05b2f869b60",
+        "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JAJ9Su3MtJh9dP1AvGgMfWQDw3/hf_20261116_222658_b88540da-07dd-4076-b607-f05b2f869b60.mp4",
+        "score_start_s": 0.0,
+        "score_delay_s": 0.95,
+        "score_lufs": -29,
+        "blur_boxes": [
+          {"x": 440, "y": 690, "w": 240, "h": 260, "first_frame": 88, "last_frame": 111, "reason": "pseudo-text on the IV bag label in shot 3"}
+        ]
+      }
+    ]
+  }
+}

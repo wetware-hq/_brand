@@ -1,0 +1,57 @@
+6 shots. Total 8 seconds — shot 1 runs 0.0–1.3s, shot 2 runs 1.3–2.6s, shot 3 runs 2.6–3.9s, shot 4 runs 3.9–5.2s, shot 5 runs 5.2–6.5s, shot 6 runs 6.5–8.0s. Hard cuts between them, no transitions, no dissolves. All shots real-time, no slow motion, no overcranking, no ramping, no speed change anywhere in this sequence. Vertical 9:16 frame.
+
+Style: 8K, photorealism, real organic film grain and halation, high dynamic range, shot on large-format film. NOT a 3D render, NOT a game engine, NOT a game-cutscene aesthetic, NOT a cartoon, NOT anime cel-shading.
+
+Operating style: large-scale realism with intimate handheld closeness, immersive in-camera feel, tactile textures, shallow depth of field, documentary framing, photochemical look.
+
+Texture: matte non-reflective surfaces, lived-in worn materials, organic 65mm film grain, no digital gloss, no plastic sheen.
+
+Technical: 8K, real-time 24fps, true 180-degree shutter with a real 1/48 second exposure on every frame, genuine photographic motion blur, each frame blending smoothly into the next. Smooth stable motion, no flicker except the one written fluorescent flicker, no warping, no morphing, no frame interpolation, no frame blending, no ghosting, no double-imaging, no high-shutter video crispness.
+
+NO ON-SCREEN TEXT — CRITICAL: no on-screen text of any kind anywhere in frame at any point. No captions, no subtitles, no lower thirds, no titles, no title cards, no credits, no watermarks, no logos, no timecode, no UI overlays, no social-media overlays, no labels on the flasks or the bags, no Chinese characters, no Korean characters, no Japanese characters. The frame is clean of all overlay graphics from first frame to last.
+
+THE BEAT — CRITICAL: the hall is alive on its night shift and nobody is watching it. Every shot is one small, real, mechanical or liquid event — a drop, a flicker, a creak, a bead of condensation, a rolling spool — played completely straight, documentary, no horror stings, no jump scares. The last shot answers all of it: the tissue in the dish gives one single heartbeat, and the whole hall's light pulses once with it. Proof of life.
+
+NOBODY IS IN THE FRAME — CRITICAL: the hall is completely empty of people at every moment across all six shots. No figures, no hands, no gloves, no silhouettes, no shadows of people, no reflections of anyone in the incubator glass, the steel, the IV bags or the wet floor.
+
+ASSETS:
+@Image1 is the feed hall — a long night-shift cell-culture hall built into an old abattoir floor: two long banks of stainless incubators glowing magenta through their glass doors with shelves of flasks and petri dishes of magenta medium inside, the old meat-line rail overhead with trolley wheels and stainless hooks now holding IV bags of magenta medium with thin feeding lines dropping into the incubators, white glazed subway tile, a wet oxblood quarry-tile floor with a stainless centre drain gutter, a round stainless table under a hanging ring of fluorescent tube light holding a spool of red suture thread, a glass pipette and a petri dish of pale grown tissue, and a pink neon tube bent into a jagged heartbeat line — never a cross, never letters — above steel swing doors at the far end. Controls the place, materials, atmosphere and light in every shot. 100% match to the reference.
+@spool = a small spool of red waxed surgical suture thread. @dish = one shallow glass petri dish holding a pale pink disc of grown tissue in a thin film of magenta medium.
+
+GEOMETRY MAP: shot 1 is a macro at the tip of one feeding line where it drops from an IV bag toward an incubator. Shot 2 is the hall seen from low in the centre of the aisle toward its far end — both incubator banks converging, the rail and its hooks overhead, the round table and its ring light mid-aisle, the pink neon heartbeat over the swing doors at the vanishing point. Shot 3 looks up at one hook on the rail against the riveted ceiling. Shot 4 is close on the inside of one incubator's glass door on the right-hand bank. Shot 5 is at floor level on the wet oxblood tile beside the drain gutter, the aisle running away behind it to the doors and the pink neon heartbeat line soft in the distance. Shot 6 is straight down onto the round steel table from above the ring light.
+
+FIRST FRAME: the drop is already swelling at the tip of the feeding line. No empty establishing frame, no static hold.
+
+LENS LOCK SHOT 1 = 8° (macro 100mm) on the drop, razor-thin focus.
+LENS LOCK SHOT 2 = 63° (35mm) deep wide from knee height down the aisle.
+LENS LOCK SHOT 3 = 29° (80mm) looking up, the hook and the bag sharp, the ceiling soft.
+LENS LOCK SHOT 4 = 18° (105mm) close through the glass, the flasks sharp, the glass beads soft in front.
+LENS LOCK SHOT 5 = 46° (50mm) at floor level, the spool sharp, the aisle soft behind it.
+LENS LOCK SHOT 6 = 46° (50mm) straight down, the dish centred inside the ring light's reflection.
+No focal drift mid-shot.
+
+CAMERA: gentle handheld — floating, drifting, riding breath, small organic corrections, cant swinging 3 to 6 degrees. Shot 2 creeps a few centimetres forward down the aisle. Shot 6 holds and breathes. Never locked, never stabilized, never mechanically smooth, never gimbal-glide.
+
+LIGHT: motivated only by the caged fluorescent tubes on the riveted ceiling, a flat cold green-white top light; the deep magenta glow from inside the incubators along both banks; the hanging fluorescent ring over the round table; and the pink neon heartbeat at the far end. One fluorescent tube in shot 2 flickers twice and recovers. Identical direction and colour temperature in every shot.
+COLOUR: ~45% cold green-white fluorescent tone on tile, steel and glass; ~35% deep magenta from the incubators, the medium and the neon; ~20% oxblood and red from the floor, the IV bags and the suture thread. Blacks lifted and neutral, never crushed. The tubes and the ring bloom softly at their edges, the neon halos wide and pink.
+
+ATMOSPHERE: real air density at every depth — a continuous scattering gradient from lens to back wall, blacks lifted at every plane, the near subject hard and textural, the hall softening behind, the far doors desaturating toward the ambient colour. Razor liquid, glass, condensation, tile-grout and thread-fibre texture up close, heavy grain inside the lifted shadows. Low macro contrast, high micro contrast. No plumes, no fog-machine texture, no volumetric shafts, no god rays.
+
+ACTION TIMING:
+0.0–1.3s (SHOT 1): macro on the clear tip of a thin feeding line. A fat drop of magenta medium swells, trembles, catches the light, and falls out of the bottom of frame.
+1.3s HARD CUT
+1.3–2.6s (SHOT 2): low in the centre of the aisle looking down the empty hall to the swing doors. The incubators glow magenta down both sides, the IV bags hang still on their hooks, the ring light hangs over the empty table mid-aisle. One fluorescent tube high in frame flickers twice and steadies.
+2.6s HARD CUT
+2.6–3.9s (SHOT 3): looking up at one old stainless hook on the overhead rail, a plain clear IV bag of magenta medium hanging from it — clear plastic only, no label, no sticker, no printing, no writing of any kind on the bag. The trolley wheel creaks a few centimetres along the steel track on its own and the bag sways gently and settles.
+3.9s HARD CUT
+3.9–5.2s (SHOT 4): close on the inside of one incubator's glass door, beaded with condensation, rows of flasks of glowing magenta medium sharp behind it. One bead of condensation breaks loose and runs down the inside of the glass; a single small bubble rises inside the nearest flask.
+5.2s HARD CUT
+5.2–6.5s (SHOT 5): floor level on the wet oxblood tile beside the drain gutter. @spool rolls slowly across the tile toward the gutter on the floor's gentle slope, unspooling a fine red line behind it across the wet tiles, and comes to rest against the gutter's steel edge.
+6.5s HARD CUT
+6.5–8.0s (SHOT 6): straight down onto the round steel table inside the reflection of the ring light. @dish sits at the centre beside the empty pipette. The pale tissue contracts once, slowly, exactly like a single heartbeat, and relaxes; on that beat the ring light dims and brightens once and the magenta spill across the steel pulses with it. Then stillness.
+
+PHYSICS: real gravity, inertia and mass. The drop is real liquid — surface tension, a clean fall. The bag on the hook sways with real liquid weight and settles. Condensation runs in a real wandering line and leaves a clear trail in the beading. The spool rolls with real weight, wobbles, and the thread lies flat and wet on the tile. The tissue moves like real soft living tissue — a slow, small contraction, never a monster, never rippling like a creature. Nothing floats, nothing slides, nothing teleports.
+
+AUDIO: diegetic only. The deep low compressor hum of the incubator banks, a single wet plip of the drop, the electrical buzz and double tick of the flickering tube, a thin metallic creak of the trolley wheel on the rail, a faint trickle of condensation, a tiny bubble, the soft ticking roll of the spool on wet tile and its light clink against the steel gutter, then one single deep soft heartbeat thump on the last shot with the hum dipping and returning. Room tone with a distant ventilation rumble. No music, no score, no lyrics, no singing, no voices, no subtitles.
+
+LOCKS: the order holds — the drop, the flicker, the hook, the condensation, the rolling spool, the heartbeat. Every shot holds to @Image1: the same incubators, rail, hooks and bags, tile, floor, drain, ring light, table and neon. No people anywhere. Light direction and colour temperature identical across all shots. Air density uniform throughout. Real photographic texture — no CGI, no rendered look, no digital cleanliness, no AI smoothness, no stabilized camera, no gimbal glide, no frame interpolation, no dropped frames.
